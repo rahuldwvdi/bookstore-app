@@ -1,7 +1,16 @@
 # bookstore-app
 crud spring boot app
--> home
--> available books
--> my books
--> register new book
+<li>
+  home
+</li>
+<li>
+  available books
+</li>
+<li>
+  my books
+</li>
+<li>
+  register new book  
+</li>
+
 
